@@ -1,0 +1,2 @@
+# RPA-Developments_SLT_TTC_StudentEnrollement_CourseCreation
+Sri Lanka Telecom automated student enrollment, course creation, class scheduling, and completion processes using UiPath. This replaced manual tasks, improved efficiency, reduced errors, and saved resources. Automation enhanced accuracy, optimized workflows, and enabled staff to focus on strategic priorities, boosting productivity and innovation. 
